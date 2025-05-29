@@ -22,8 +22,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snchzdaniel&layout=pie)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snchzdaniel&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snchzdaniel&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snchzdaniel&hide_progress=true&theme=dark)
 
 
 
