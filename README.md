@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snchzdaniel&hide_progress=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snchzdaniel&hide_progress=true&theme=dark)
 
 
