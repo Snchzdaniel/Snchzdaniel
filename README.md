@@ -1,6 +1,5 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl1M2NubndlZGY4czExeDN0dHR6ajRtZXA3cjd3aTk1dXhhNGljbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="100"/> Sanchz - Softw.
 
-![Sanchz-Software](Sanchz-Software.jpg)
 
 [![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)]()
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
